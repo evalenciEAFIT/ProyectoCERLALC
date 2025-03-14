@@ -56,7 +56,7 @@
 | Unnamed: 0 |               0 |
 | ID |         758,519 |
 | FECHA ASIGNACIÓN |     2,229,716 |
-| ISBN |<span style="color:red; font-size:18px; font-weight:bold;">               7 </span>|
+| ISBN |```diff               7 |
 | TIPO DE OBRA |     2,230,905 |
 | ISBN DE LA OBRA COMPLETA |     3,168,191 |
 | VOLUMEN |     3,167,945 |
