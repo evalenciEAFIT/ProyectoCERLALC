@@ -42,8 +42,8 @@
 - 📝 **Texto:**       2862 registros (0.09%)
 - 🔢 **Número:**      10000 registros (0.31%)
 - 📅 **Fecha:**          0 registros (0.00%)
-- 🔖 **<span style="color:red;">ISBN-10:</span>**        284 registros (0.01%)
-- 🔖 **<span style="color:blue;">ISBN-13:</span>**    3164031 registros (99.59%)
+- 🔖 **ISBN-10:**        284 registros (0.01%)
+- 🔖 **ISBN-13:**    3164031 registros (99.59%)
 - 🚫 **No es ISBN:**          0 registros (0.00%)
 - ❓ **Otro:**          0 registros (0.00%)
 - 🚫 **Nulo:**          7 registros (0.00%)
@@ -56,7 +56,7 @@
 | Unnamed: 0 |               0 |
 | ID |         758,519 |
 | FECHA ASIGNACIÓN |     2,229,716 |
-| ISBN |```diff               7 |
+| ISBN |               7 |
 | TIPO DE OBRA |     2,230,905 |
 | ISBN DE LA OBRA COMPLETA |     3,168,191 |
 | VOLUMEN |     3,167,945 |
