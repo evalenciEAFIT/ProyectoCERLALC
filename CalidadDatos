@@ -1,0 +1,597 @@
+Archivo de entrada: ./datos/DATA2010-2024.csv
+Archivo de salida: Calidad_DATA.txt
+
+Número total de registros: 3177184
+Número total de columnas: 71
+
+**Diagnóstico de columna: Unnamed: 0**
+- Texto: 0 registros (0.00%)
+- Número: 3177184 registros (100.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 0 registros (0.00%)
+
+**Diagnóstico de columna: ID**
+- Texto: 0 registros (0.00%)
+- Número: 2418665 registros (76.13%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 758519 registros (23.87%)
+
+**Diagnóstico de columna: FECHA ASIGNACIÓN**
+- Texto: 757026 registros (23.83%)
+- Número: 188984 registros (5.95%)
+- Fecha: 1353 registros (0.04%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2229716 registros (70.18%)
+
+**Diagnóstico de columna: ISBN**
+- Texto: 2862 registros (0.09%)
+- Número: 10000 registros (0.31%)
+- Fecha: 0 registros (0.00%)
+- ISBN-10: 284 registros (0.01%)
+- ISBN-13: 3164031 registros (99.59%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 7 registros (0.00%)
+
+**Diagnóstico de columna: TIPO DE OBRA**
+- Texto: 946279 registros (29.78%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2230905 registros (70.22%)
+
+**Diagnóstico de columna: ISBN DE LA OBRA COMPLETA**
+- Texto: 0 registros (0.00%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- ISBN-10: 0 registros (0.00%)
+- ISBN-13: 8993 registros (0.28%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3168191 registros (99.72%)
+
+**Diagnóstico de columna: VOLUMEN**
+- Texto: 0 registros (0.00%)
+- Número: 9239 registros (0.29%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3167945 registros (99.71%)
+
+**Diagnóstico de columna: VOLUMENES**
+- Texto: 21 registros (0.00%)
+- Número: 2740 registros (0.09%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3174423 registros (99.91%)
+
+**Diagnóstico de columna: TÍTULO**
+- Texto: 3177090 registros (100.00%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- ISBN-10: 0 registros (0.00%)
+- ISBN-13: 13 registros (0.00%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 81 registros (0.00%)
+
+**Diagnóstico de columna: SUBTÍTULO**
+- Texto: 297833 registros (9.37%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2879351 registros (90.63%)
+
+**Diagnóstico de columna: AUTOR/COLABORADOR**
+- Texto: 2087688 registros (65.71%)
+- Número: 0 registros (0.00%)
+- Fecha: 5 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1089491 registros (34.29%)
+
+**Diagnóstico de columna: CATEGORÍA MATERIA**
+- Texto: 190213 registros (5.99%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2986971 registros (94.01%)
+
+**Diagnóstico de columna: CLAVE MATERIA**
+- Texto: 2926313 registros (92.10%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 250871 registros (7.90%)
+
+**Diagnóstico de columna: MATERIA**
+- Texto: 2872452 registros (90.41%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 304732 registros (9.59%)
+
+**Diagnóstico de columna: THEMA**
+- Texto: 492023 registros (15.49%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2685161 registros (84.51%)
+
+**Diagnóstico de columna: COLECCIÓN**
+- Texto: 147011 registros (4.63%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- ISBN-10: 4 registros (0.00%)
+- ISBN-13: 44 registros (0.00%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3030125 registros (95.37%)
+
+**Diagnóstico de columna: NO. COLECCIÓN**
+- Texto: 0 registros (0.00%)
+- Número: 96848 registros (3.05%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3080336 registros (96.95%)
+
+**Diagnóstico de columna: TIPO DE CONTENIDO**
+- Texto: 1218213 registros (38.34%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1958971 registros (61.66%)
+
+**Diagnóstico de columna: NOMBRE DE LA SERIE**
+- Texto: 24532 registros (0.77%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- ISBN-10: 0 registros (0.00%)
+- ISBN-13: 5 registros (0.00%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3152647 registros (99.23%)
+
+**Diagnóstico de columna: PÚBLICO OBJETIVO (AUDIENCIA)**
+- Texto: 1136837 registros (35.78%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2040347 registros (64.22%)
+
+**Diagnóstico de columna: IDIOMA**
+- Texto: 1398995 registros (44.03%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1778189 registros (55.97%)
+
+**Diagnóstico de columna: TRADUCCIÓN**
+- Texto: 3177003 registros (99.99%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 181 registros (0.01%)
+
+**Diagnóstico de columna: IDIOMA DEL**
+- Texto: 18143 registros (0.57%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3159041 registros (99.43%)
+
+**Diagnóstico de columna: IDIOMA AL**
+- Texto: 18143 registros (0.57%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3159041 registros (99.43%)
+
+**Diagnóstico de columna: IDIOMA ORIGINAL**
+- Texto: 247192 registros (7.78%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2929992 registros (92.22%)
+
+**Diagnóstico de columna: TÍTULO ORIGINAL**
+- Texto: 51328 registros (1.62%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3125856 registros (98.38%)
+
+**Diagnóstico de columna: NO. EDICIÓN**
+- Texto: 0 registros (0.00%)
+- Número: 3177128 registros (100.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 56 registros (0.00%)
+
+**Diagnóstico de columna: DEPARTAMENTO...7**
+- Texto: 190234 registros (5.99%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2986950 registros (94.01%)
+
+**Diagnóstico de columna: CIUDAD DE EDICIÓN**
+- Texto: 947284 registros (29.82%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2229900 registros (70.18%)
+
+**Diagnóstico de columna: FECHA APARICIÓN**
+- Texto: 0 registros (0.00%)
+- Número: 190235 registros (5.99%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2986949 registros (94.01%)
+
+**Diagnóstico de columna: COEDICIÓN**
+- Texto: 2126263 registros (66.92%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1050921 registros (33.08%)
+
+**Diagnóstico de columna: COEDITOR**
+- Texto: 13548 registros (0.43%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3163636 registros (99.57%)
+
+**Diagnóstico de columna: COMERCIALIZABLE**
+- Texto: 2236404 registros (70.39%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 940780 registros (29.61%)
+
+**Diagnóstico de columna: NÚMERO DE EJEMPLARES NACIONALES**
+- Texto: 0 registros (0.00%)
+- Número: 189918 registros (5.98%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2987266 registros (94.02%)
+
+**Diagnóstico de columna: NÚMERO DE EJEMPLARES EXT.**
+- Texto: 0 registros (0.00%)
+- Número: 189351 registros (5.96%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2987833 registros (94.04%)
+
+**Diagnóstico de columna: NÚMERO DE REIMPRESIONES**
+- Texto: 0 registros (0.00%)
+- Número: 189886 registros (5.98%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2987298 registros (94.02%)
+
+**Diagnóstico de columna: PRECIO MONEDA LOCAL**
+- Texto: 24328 registros (0.77%)
+- Número: 1877997 registros (59.11%)
+- Fecha: 0 registros (0.00%)
+- ISBN-10: 1 registros (0.00%)
+- ISBN-13: 0 registros (0.00%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1274858 registros (40.13%)
+
+**Diagnóstico de columna: PRECIO EN DÓLARES**
+- Texto: 5781 registros (0.18%)
+- Número: 957601 registros (30.14%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2213802 registros (69.68%)
+
+**Diagnóstico de columna: SUSTRATO**
+- Texto: 3177183 registros (100.00%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1 registros (0.00%)
+
+**Diagnóstico de columna: DESCRIPCIÓN**
+- Texto: 2201640 registros (69.30%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 975544 registros (30.70%)
+
+**Diagnóstico de columna: ENCUADERNACIÓN**
+- Texto: 1588183 registros (49.99%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1589001 registros (50.01%)
+
+**Diagnóstico de columna: PAPEL**
+- Texto: 1582722 registros (49.82%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1594462 registros (50.18%)
+
+**Diagnóstico de columna: TIPO DE IMPRESIÓN**
+- Texto: 904764 registros (28.48%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2272420 registros (71.52%)
+
+**Diagnóstico de columna: PESO**
+- Texto: 0 registros (0.00%)
+- Número: 148456 registros (4.67%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3028728 registros (95.33%)
+
+**Diagnóstico de columna: NO. PÁGINAS**
+- Texto: 0 registros (0.00%)
+- Número: 2575762 registros (81.07%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 601422 registros (18.93%)
+
+**Diagnóstico de columna: TAMAÑO**
+- Texto: 603508 registros (19.00%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2573676 registros (81.00%)
+
+**Diagnóstico de columna: UNIDADES**
+- Texto: 65310 registros (2.06%)
+- Número: 154876 registros (4.87%)
+- Fecha: 7051 registros (0.22%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2949947 registros (92.85%)
+
+**Diagnóstico de columna: ORIGEN PUBLICACIÓN ELECTRÓNICA...77**
+- Texto: 59986 registros (1.89%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3117198 registros (98.11%)
+
+**Diagnóstico de columna: ORIGEN PUBLICACIÓN ELECTRÓNICA...78**
+- Texto: 451059 registros (14.20%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2726125 registros (85.80%)
+
+**Diagnóstico de columna: FORMATO DEL PRODUCTO**
+- Texto: 1382255 registros (43.51%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1794929 registros (56.49%)
+
+**Diagnóstico de columna: TIPO DE CONTENIDO DEL PRODUCTO**
+- Texto: 459906 registros (14.48%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2717278 registros (85.52%)
+
+**Diagnóstico de columna: PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL**
+- Texto: 61083 registros (1.92%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3116101 registros (98.08%)
+
+**Diagnóstico de columna: PERMISO USO DIGITAL**
+- Texto: 23707 registros (0.75%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3153477 registros (99.25%)
+
+**Diagnóstico de columna: TIPO DE RESTRICCIÓN DE USO**
+- Texto: 11024 registros (0.35%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3166160 registros (99.65%)
+
+**Diagnóstico de columna: TIPO DE SOPORTE**
+- Texto: 396576 registros (12.48%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2780608 registros (87.52%)
+
+**Diagnóstico de columna: TIPO DESCARGA DIGITAL**
+- Texto: 147737 registros (4.65%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3029447 registros (95.35%)
+
+**Diagnóstico de columna: DISPONIBILIDAD**
+- Texto: 189776 registros (5.97%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2987408 registros (94.03%)
+
+**Diagnóstico de columna: ESTATUS EN EL CATÁLOGO**
+- Texto: 189539 registros (5.97%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2987645 registros (94.03%)
+
+**Diagnóstico de columna: PORTADA**
+- Texto: 33236 registros (1.05%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3143948 registros (98.95%)
+
+**Diagnóstico de columna: RESEÑA**
+- Texto: 91958 registros (2.89%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3085226 registros (97.11%)
+
+**Diagnóstico de columna: CATÁLOGO**
+- Texto: 0 registros (0.00%)
+- Número: 189657 registros (5.97%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2987527 registros (94.03%)
+
+**Diagnóstico de columna: TIPO**
+- Texto: 190236 registros (5.99%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 2986948 registros (94.01%)
+
+**Diagnóstico de columna: EDITORIAL**
+- Texto: 3175975 registros (99.96%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1209 registros (0.04%)
+
+**Diagnóstico de columna: SELLO EDITORIAL**
+- Texto: 2116613 registros (66.62%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1060571 registros (33.38%)
+
+**Diagnóstico de columna: ACTIVIDAD PRINCIPAL**
+- Texto: 2020725 registros (63.60%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 1156459 registros (36.40%)
+
+**Diagnóstico de columna: GRUPO EDITORIAL**
+- Texto: 163429 registros (5.14%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3013755 registros (94.86%)
+
+**Diagnóstico de columna: FECHA DE FUNDACIÓN**
+- Texto: 61876 registros (1.95%)
+- Número: 92766 registros (2.92%)
+- Fecha: 1032 registros (0.03%)
+- ISBN-10: 154 registros (0.00%)
+- ISBN-13: 0 registros (0.00%)
+- No es ISBN: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 3021356 registros (95.10%)
+
+**Diagnóstico de columna: TIPO_AGENTE**
+- Texto: 3177184 registros (100.00%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 0 registros (0.00%)
+
+**Diagnóstico de columna: PAIS**
+- Texto: 3177184 registros (100.00%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 0 registros (0.00%)
+
+**Diagnóstico de columna: ANO**
+- Texto: 0 registros (0.00%)
+- Número: 3177184 registros (100.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 0 registros (0.00%)
+
+**Diagnóstico de columna: CLAVE_MAT.3**
+- Texto: 2229666 registros (70.18%)
+- Número: 0 registros (0.00%)
+- Fecha: 0 registros (0.00%)
+- Otro: 0 registros (0.00%)
+- Nulo: 947518 registros (29.82%)
+
+
+**VALORES NULOS POR COLUMNA:**
+Unnamed: 0: 0
+ID: 758519
+FECHA ASIGNACIÓN: 2229716
+ISBN: 7
+TIPO DE OBRA: 2230905
+ISBN DE LA OBRA COMPLETA: 3168191
+VOLUMEN: 3167945
+VOLUMENES: 3174423
+TÍTULO: 81
+SUBTÍTULO: 2879351
+AUTOR/COLABORADOR: 1089491
+CATEGORÍA MATERIA: 2986971
+CLAVE MATERIA: 250871
+MATERIA: 304732
+THEMA: 2685161
+COLECCIÓN: 3030125
+NO. COLECCIÓN: 3080336
+TIPO DE CONTENIDO: 1958971
+NOMBRE DE LA SERIE: 3152647
+PÚBLICO OBJETIVO (AUDIENCIA): 2040347
+IDIOMA: 1778189
+TRADUCCIÓN: 181
+IDIOMA DEL: 3159041
+IDIOMA AL: 3159041
+IDIOMA ORIGINAL: 2929992
+TÍTULO ORIGINAL: 3125856
+NO. EDICIÓN: 56
+DEPARTAMENTO...7: 2986950
+CIUDAD DE EDICIÓN: 2229900
+FECHA APARICIÓN: 2986949
+COEDICIÓN: 1050921
+COEDITOR: 3163636
+COMERCIALIZABLE: 940780
+NÚMERO DE EJEMPLARES NACIONALES: 2987266
+NÚMERO DE EJEMPLARES EXT.: 2987833
+NÚMERO DE REIMPRESIONES: 2987298
+PRECIO MONEDA LOCAL: 1274858
+PRECIO EN DÓLARES: 2213802
+SUSTRATO: 1
+DESCRIPCIÓN: 975544
+ENCUADERNACIÓN: 1589001
+PAPEL: 1594462
+TIPO DE IMPRESIÓN: 2272420
+PESO: 3028728
+NO. PÁGINAS: 601422
+TAMAÑO: 2573676
+UNIDADES: 2949947
+ORIGEN PUBLICACIÓN ELECTRÓNICA...77: 3117198
+ORIGEN PUBLICACIÓN ELECTRÓNICA...78: 2726125
+FORMATO DEL PRODUCTO: 1794929
+TIPO DE CONTENIDO DEL PRODUCTO: 2717278
+PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL: 3116101
+PERMISO USO DIGITAL: 3153477
+TIPO DE RESTRICCIÓN DE USO: 3166160
+TIPO DE SOPORTE: 2780608
+TIPO DESCARGA DIGITAL: 3029447
+DISPONIBILIDAD: 2987408
+ESTATUS EN EL CATÁLOGO: 2987645
+PORTADA: 3143948
+RESEÑA: 3085226
+CATÁLOGO: 2987527
+TIPO: 2986948
+EDITORIAL: 1209
+SELLO EDITORIAL: 1060571
+ACTIVIDAD PRINCIPAL: 1156459
+GRUPO EDITORIAL: 3013755
+FECHA DE FUNDACIÓN: 3021356
+TIPO_AGENTE: 0
+PAIS: 0
+ANO: 0
+CLAVE_MAT.3: 947518
