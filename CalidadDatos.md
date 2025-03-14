@@ -42,7 +42,7 @@
 - 📝 **Texto:** 2,862 registros (0.09%)
 - 🔢 **Número:** 10,000 registros (0.31%)
 - 📅 **Fecha:** 0 registros (0.00%)
-- 🔖 **ISBN-10:** 284 registros (0.01%)
+- 🔖 **<span style="color:red;">ISBN-10:</span>** 284 registros (0.01%)
 - 🔖 **ISBN-13:** 3,164,031 registros (99.59%)
 - 🚫 **No es ISBN:** 0 registros (0.00%)
 - ❓ **Otro:** 0 registros (0.00%)
