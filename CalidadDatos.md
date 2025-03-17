@@ -85,21 +85,28 @@
 | CLAVE_MAT.3            | 2229666 (70.18%)  | -                 | -            | -           | -         | -            | -      | 947518 (29.82%)  |
 
 
+---
+
 ## 🚫 **Valores Nulos por Columna**
 Ordenado de mayor a menor
 
+
+### 📊 **Resumen General**
+- **Número total de registros:** 3,177,184
+
+  
 | **Columna** | **Valores Nulos** |
-|------------|-------------------:|
-| VOLUMENES                                 |         3174423 |
-| ISBN DE LA OBRA COMPLETA                  |         3168191 |
-| VOLUMEN                                   |         3167945 |
-| TIPO DE RESTRICCIÓN DE USO                |         3166160 |
-| COEDITOR                                  |         3163636 |
-| IDIOMA DEL                                |         3159041 |
-| IDIOMA AL                                 |         3159041 |
-| PERMISO USO DIGITAL                       |         3153477 |
-| NOMBRE DE LA SERIE                        |         3152647 |
-| PORTADA                                   |         3143948 |
+|-------------------------------------------|-------------------:|
+| VOLUMENES                                 |         3'174.423 |
+| ISBN DE LA OBRA COMPLETA                  |         3'168.191 |
+| VOLUMEN                                   |         3'167.945 |
+| TIPO DE RESTRICCIÓN DE USO                |         3'166.160 |
+| COEDITOR                                  |         3'163.636 |
+| IDIOMA DEL                                |         3'159.041 |
+| IDIOMA AL                                 |         3'159.041 |
+| PERMISO USO DIGITAL                       |         3'153.477 |
+| NOMBRE DE LA SERIE                        |         3'152.647 |
+| PORTADA                                   |         3'143.948 |
 | TÍTULO ORIGINAL                           |         3125856 |
 | ORIGEN PUBLICACIÓN ELECTRÓNICA...77       |         3117198 |
 | PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL |         3116101 |
