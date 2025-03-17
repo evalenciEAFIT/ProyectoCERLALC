@@ -142,23 +142,23 @@ Ordenado de mayor a menor
 | PRECIO EN DÓLARES                         |         2'213.802 |
 | PÚBLICO OBJETIVO (AUDIENCIA)              |         2'040.347 |
 | TIPO DE CONTENIDO                         |         1'958.971 |
-| FORMATO DEL PRODUCTO                      |         1794929 |
-| IDIOMA                                    |         1778189 |
-| PAPEL                                     |         1594462 |
-| ENCUADERNACIÓN                            |         1589001 |
-| PRECIO MONEDA LOCAL                       |         1274858 |
-| ACTIVIDAD PRINCIPAL                       |         1156459 |
-| AUTOR/COLABORADOR                         |         1089491 |
-| SELLO EDITORIAL                           |         1060571 |
-| COEDICIÓN                                 |         1050921 |
-| DESCRIPCIÓN                               |          975544 |
-| CLAVE_MAT.3                               |          947518 |
-| COMERCIALIZABLE                           |          940780 |
-| ID                                        |          758519 |
-| NO. PÁGINAS                               |          601422 |
-| MATERIA                                   |          304732 |
-| CLAVE MATERIA                             |          250871 |
-| EDITORIAL                                 |            1209 |
+| FORMATO DEL PRODUCTO                      |         1'7949.29 |
+| IDIOMA                                    |         1'778.189 |
+| PAPEL                                     |         1'594.462 |
+| ENCUADERNACIÓN                            |         1'589.001 |
+| PRECIO MONEDA LOCAL                       |         1'274.858 |
+| ACTIVIDAD PRINCIPAL                       |         1'156.459 |
+| AUTOR/COLABORADOR                         |         1'089.491 |
+| SELLO EDITORIAL                           |         1'060.571 |
+| COEDICIÓN                                 |         1'050.921 |
+| DESCRIPCIÓN                               |          975.544 |
+| CLAVE_MAT.3                               |          947.518 |
+| COMERCIALIZABLE                           |          940.780 |
+| ID                                        |          758.519 |
+| NO. PÁGINAS                               |          601.422 |
+| MATERIA                                   |          304.732 |
+| CLAVE MATERIA                             |          250.871 |
+| EDITORIAL                                 |            1.209 |
 | TRADUCCIÓN                                |             181 |
 | TÍTULO                                    |              81 |
 | NO. EDICIÓN                               |              56 |
