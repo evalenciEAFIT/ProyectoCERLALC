@@ -107,41 +107,41 @@ Ordenado de mayor a menor
 | PERMISO USO DIGITAL                       |         3'153.477 |
 | NOMBRE DE LA SERIE                        |         3'152.647 |
 | PORTADA                                   |         3'143.948 |
-| TÍTULO ORIGINAL                           |         3125856 |
-| ORIGEN PUBLICACIÓN ELECTRÓNICA...77       |         3117198 |
-| PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL |         3116101 |
-| RESEÑA                                    |         3085226 |
-| NO. COLECCIÓN                             |         3080336 |
-| COLECCIÓN                                 |         3030125 |
-| TIPO DESCARGA DIGITAL                     |         3029447 |
-| PESO                                      |         3028728 |
-| FECHA DE FUNDACIÓN                        |         3021356 |
-| GRUPO EDITORIAL                           |         3013755 |
-| NÚMERO DE EJEMPLARES EXT.                 |         2987833 |
-| ESTATUS EN EL CATÁLOGO                    |         2987645 |
-| CATÁLOGO                                  |         2987527 |
-| DISPONIBILIDAD                            |         2987408 |
-| NÚMERO DE REIMPRESIONES                   |         2987298 |
-| NÚMERO DE EJEMPLARES NACIONALES           |         2987266 |
-| CATEGORÍA MATERIA                         |         2986971 |
-| DEPARTAMENTO...7                          |         2986950 |
-| FECHA APARICIÓN                           |         2986949 |
-| TIPO                                      |         2986948 |
-| UNIDADES                                  |         2949947 |
-| IDIOMA ORIGINAL                           |         2929992 |
-| SUBTÍTULO                                 |         2879351 |
-| TIPO DE SOPORTE                           |         2780608 |
-| ORIGEN PUBLICACIÓN ELECTRÓNICA...78       |         2726125 |
-| TIPO DE CONTENIDO DEL PRODUCTO            |         2717278 |
-| THEMA                                     |         2685161 |
-| TAMAÑO                                    |         2573676 |
-| TIPO DE IMPRESIÓN                         |         2272420 |
-| TIPO DE OBRA                              |         2230905 |
-| CIUDAD DE EDICIÓN                         |         2229900 |
-| FECHA ASIGNACIÓN                          |         2229716 |
-| PRECIO EN DÓLARES                         |         2213802 |
-| PÚBLICO OBJETIVO (AUDIENCIA)              |         2040347 |
-| TIPO DE CONTENIDO                         |         1958971 |
+| TÍTULO ORIGINAL                           |         3'125.856 |
+| ORIGEN PUBLICACIÓN ELECTRÓNICA...77       |         3'117.198 |
+| PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL |         3'116.101 |
+| RESEÑA                                    |         3'085.226 |
+| NO. COLECCIÓN                             |         3'080.336 |
+| COLECCIÓN                                 |         3'030.125 |
+| TIPO DESCARGA DIGITAL                     |         3'029.447 |
+| PESO                                      |         3'028.728 |
+| FECHA DE FUNDACIÓN                        |         3'021.356 |
+| GRUPO EDITORIAL                           |         3'013.755 |
+| NÚMERO DE EJEMPLARES EXT.                 |         2'987.833 |
+| ESTATUS EN EL CATÁLOGO                    |         2'987.645 |
+| CATÁLOGO                                  |         2'987.527 |
+| DISPONIBILIDAD                            |         2'987.408 |
+| NÚMERO DE REIMPRESIONES                   |         2'987.298 |
+| NÚMERO DE EJEMPLARES NACIONALES           |         2'987.266 |
+| CATEGORÍA MATERIA                         |         2'986.971 |
+| DEPARTAMENTO...7                          |         2'986.950 |
+| FECHA APARICIÓN                           |         2'986.949 |
+| TIPO                                      |         2'986.948 |
+| UNIDADES                                  |         2'949.947 |
+| IDIOMA ORIGINAL                           |         2'929.992 |
+| SUBTÍTULO                                 |         2'879.351 |
+| TIPO DE SOPORTE                           |         2'780.608 |
+| ORIGEN PUBLICACIÓN ELECTRÓNICA...78       |         2'726.125 |
+| TIPO DE CONTENIDO DEL PRODUCTO            |         2'717.278 |
+| THEMA                                     |         2'685.161 |
+| TAMAÑO                                    |         2'573.676 |
+| TIPO DE IMPRESIÓN                         |         2'272.420 |
+| TIPO DE OBRA                              |         2'230.905 |
+| CIUDAD DE EDICIÓN                         |         2'229.900 |
+| FECHA ASIGNACIÓN                          |         2'229.716 |
+| PRECIO EN DÓLARES                         |         2'213.802 |
+| PÚBLICO OBJETIVO (AUDIENCIA)              |         2'040.347 |
+| TIPO DE CONTENIDO                         |         1'958.971 |
 | FORMATO DEL PRODUCTO                      |         1794929 |
 | IDIOMA                                    |         1778189 |
 | PAPEL                                     |         1594462 |
