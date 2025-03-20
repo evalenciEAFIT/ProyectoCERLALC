@@ -45,39 +45,52 @@ Ejemplo:
 
 ## Indicador de Calidad de Datos
 
-El **indicador de calidad de datos** mide el nivel de calidad general de una base de datos en función de la cantidad de datos completos, consistentes y sin duplicados. Un valor cercano al 100% indica una base de datos altamente confiable.
+# **Indicador de Calidad de Datos (ICD)**
+El **Indicador de Calidad de Datos** mide el nivel de calidad general de una base de datos en función de la cantidad de datos completos, consistentes y sin duplicados. Un valor cercano al **100%** indica que la base de datos es altamente confiable y presenta poca pérdida o inconsistencia de datos.
 
-Para efectos de análisis, los valores vacíos serán tratados como valores nulos, ya que ambos representan una ausencia de datos.
+## **Consideraciones para el cálculo**
+- Los valores vacíos serán tratados como valores nulos, ya que ambos representan una ausencia de datos.  
+- Los registros duplicados disminuyen la calidad de los datos, ya que reflejan inconsistencias en la estructura y redundancia de la información.
 
-Se puede calcular mediante la siguiente ecuación:
-\`\`\`
-ICD = 
-\frac{(T - N - D)}{T} \times 100
-\`\`\`
+---
 
+## **Fórmula para el Indicador de Calidad de Datos (ICD)**
+La fórmula para calcular el **ICD** es:
 
-$$
-ICD = \frac{(P_n \cdot N_c) + (P_o \cdot O_c) - (P_r \cdot R_c)}{T} \times 100
-$$
+\[
+ICD = \frac{(T - N - D)}{T} \times 100
+\]
 
+---
 
-Donde:
-- **ICD** = Indicador de Calidad de Datos (%)
-- **T** = Total de registros en la base de datos
-- **N** = Número de valores nulos (incluye valores vacíos)
-- **D** = Número de valores duplicados
+## **Donde:**
+- \( ICD \) = Indicador de Calidad de Datos (%).  
+- \( T \) = Total de registros en la base de datos.  
+- \( N \) = Número de valores nulos (incluye valores vacíos).  
+- \( D \) = Número de valores duplicados.  
 
-Ejemplo:
-Si en una base de datos editorial hay:
-- **T** = 10,000 registros
-- **N** = 150 valores nulos (incluyendo valores vacíos)
-- **D** = 20 valores duplicados
+---
 
-El cálculo sería:
-\`\`\`
-ICD = \frac{(10,000 - 150 - 20)}{10,000} \times 100 = 98.3%
-\`\`\`
-Un valor de **98.3%** indica una alta calidad de datos, aunque aún hay margen para mejorar eliminando los valores nulos y duplicados.
+## **Interpretación del resultado:**
+- Si \( ICD \approx 100\% \) → La calidad de datos es alta, hay pocos valores nulos o duplicados.  
+- Si \( ICD \approx 50\% \) → La base de datos tiene una calidad moderada; se deben revisar los valores nulos y duplicados.  
+- Si \( ICD \leq 30\% \) → La calidad de los datos es baja y requiere una limpieza y verificación de la consistencia de la información.  
+
+---
+
+## **Ejemplo práctico:**
+Si una base de datos tiene:
+- **T = 1000** registros  
+- **N = 100** valores nulos  
+- **D = 50** valores duplicados  
+
+Entonces el cálculo del **ICD** es:
+
+\[
+ICD = \frac{(1000 - 100 - 50)}{1000} \times 100 = \frac{850}{1000} \times 100 = 85\%
+\]
+
+➡️ La calidad de datos es del **85%**, lo que indica que la base de datos es confiable pero podría mejorarse eliminando valores nulos y registros duplicados.
 
 ---
 
