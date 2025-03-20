@@ -54,6 +54,11 @@ Se puede calcular mediante la siguiente ecuación:
 ICD = 
 \frac{(T - N - D)}{T} \times 100
 \`\`\`
+$$
+ICD = \frac{(P_n \cdot N_c) + (P_o \cdot O_c) - (P_r \cdot R_c)}{T} \times 100
+$$
+
+
 Donde:
 - **ICD** = Indicador de Calidad de Datos (%)
 - **T** = Total de registros en la base de datos
