@@ -227,4 +227,32 @@
 | PAIS | 3,177,184 (100.00%) | - (-) | - (-) | - (-) | - (-) | - (-) | - (-) | - (-) |
 | ANO | - (-) | 3,177,184 (100.00%) | - (-) | - (-) | - (-) | - (-) | - (-) | - (-) |
 | CLAVE_MAT.3 | 2,229,666 (70.18%) | - (-) | - (-) | - (-) | - (-) | - (-) | - (-) | 947,518 (29.82%) |
+
+-
+# Muestra de Valores por Columna
+
+## Muestra Detallada por Columna
+
+| Columna | Valores |
+|---------|---------|
+| **Unnamed: 0** | [3171316, 3171894, 3174259, 3174488, 3173530] |
+| **ID** | [634682, 150923, 630011, 629423, 615831] |
+| **FECHA ASIGNACIÓN** | [1692230400.0, 1717372800.0, 1728259200.0, 1706054400.0, 1715644800.0] |
+| **ISBN** | ['978-980-404-055-9', '978-980-439-145-3', '978-980-247-174-4', '978-980-236-746-7', '978-980-11-1603-5'] |
+| **TIPO DE OBRA** | ['independiente', 'completa', 'volumen'] |
+| **ISBN DE LA OBRA COMPLETA** | ['978-980-18-3811-1', '978-980-18-3401-4', '978-980-18-4284-2'] |
+| **VOLUMEN** | [1.0, 2.0, 1.0, 3.0, 20.0] |
+| **VOLUMENES** | [1.0, 1.0, 2.0, 3.0, 12.0] |
+| **TÍTULO** | ['AGROECOLOGÍA PARA DOCENTES', 'La búsqueda del instante', 'ENTORNO URBANO II', 'DISEÑO CURRICULAR E INSTRUCCIONAL EN EDUCACIÓN A DISTANCIA. EXPERIENCIAS DE INVESTIGACIÓN EN LA UNIVERSIDAD NACIONAL ABIERTA DE VENEZUELA', 'PROSPECTIVA TERRITORIAL:'] |
+| **SUBTÍTULO** | ['Experiencia amorosas plasmadas en poemas', 'Científico-Cristiano en el Marco de los Discursos de la Contemporaneidad', 'Aportes desde el sector privado para un dialogo nacional', 'Santuario nacional', 'Sinergia para la excelencia en la investigación'] |
+| **AUTOR/COLABORADOR** | ['LANDER, JOSE', 'AUTOR: HERNÁNDEZ, MARÍA TERESA (VENEZUELA)', 'HERRERA, CAROLA', 'Autor: Becerra torres, Gladys Yolanda (Venezuela)', 'Director del equipo editorial: Valencia Bolaños, Mónica Elizabeth (Venezuela) / Compilador: Malpica Maldonado, Alida Coromoto (Venezuela) / Autor: Bajaña Salazar, Hermógenes Espíritu (Ecuador) / Autor: Cordero Montalvan, Francisco Xavier (Ecuador) / Autor: Gutama Chuñir, Jhon MIchael (Ecuador) / Autor: Chumbay Guncay, Julio Vicente (Ecuador) / Autor: García Larrea, Gabriela Gioconda (Ecuador) / Autor: Garces Chiriboya, Marcela (Ecuador) / Autor: Martinez Mena, Luis (Ecuador) / Autor: Sarango Solano, Fernanda Elizabeth (Ecuador) / Autor: Zhinnay, Erika (Ecuador) / Autor: Marca Portoviejo, Ruth Jimena (Ecuador) / Autor: Morocho Torres, Richard Vinicio (Ecuador) / Autor: Vallejo Cando, Maria Germania (Ecuador) / Autor: Cabrera Morocho, Nathaly Lorena (Ecuador) / Autor: Tejedor Rodriguez, Yesenia Raquel (Ecuador) / Autor: Pantoja Sánchez, Maria Teresa (México) / Autor: Barberi Ruiz, Ormary Eglee (Venezuela) / Autor: Malpica Maldonado, Alida Coromoto (Venezuela) / Compilador: Valencia Bolaños, Mónica Elizabeth (Venezuela)'] |
+| **CATEGORÍA MATERIA** | ['200 - Religión', '600 - Tecnología (Ciencias aplicadas)', '600 - Tecnología (Ciencias aplicadas)', '0 - Generalidades', '0 - Generalidades'] |
+| **CLAVE MATERIA** | ['808.4', '300', '710', '070.5', '900'] |
+| **MATERIA** | ['Retórica de los ensayos', 'Ciencias sociales', 'Urbanismo y arte paisajístico', 'Publicación', 'Geografía e historia'] |
+| **THEMA** | ['Q - Filosofía y religión', 'J - Sociedad y ciencias sociales', 'AJF - Fotoperiodismo', 'J - Sociedad y ciencias sociales', 'G - Consulta, información y materias interdisciplinares'] |
+| **COLECCIÓN** | ['independiente', 'Unión global', '1', 'Trabajos de Ascenso', 'Estudios del Trading'] |
+| **NO. COLECCIÓN** | [1.0, 1.0, 55.0, 300.0, 10.0] |
+| **TIPO DE CONTENIDO** | ['Ensayo', 'Libros Universitarios', 'Libros Universitarios', 'Educación Básica y Media', 'Otro'] |
+
 ---
+
