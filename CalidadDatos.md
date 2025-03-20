@@ -1,13 +1,3 @@
-
-## 📂 **Información de Archivos**
-- **Archivo de entrada:** `./datos/DATA2010-2024.csv`
-- **Archivo de salida:** `Calidad_DATA.txt`
-
-### 📊 **Resumen General**
-- **Número total de registros:** 3,177,184
-- **Número total de columnas:** 71
-
----
 # Informe de Calidad de Base de Datos
 
 ## Archivo de entrada
@@ -18,6 +8,12 @@
 
 ## Número total de registros
 - **Total:** 3,177,184
+
+## Número total de registros
+- **Total:** 3,177,184
+
+## Número total de columnas
+- **Total:** 71
 
 ## Valores nulos por columna
 | Columna | Valores Nulos | Porcentaje (%) |
@@ -95,5 +91,83 @@
 | VOLUMENES | 3,174,423 | 99.91% |
 
 ---
+
+## Valores duplicados y únicos por columna
+| Columna | Duplicados | Únicos |
+|---------|------------|--------|
+| Unnamed: 0 | - | 3,177,184 |
+| ID | 759,400 | 2,417,607 |
+| FECHA ASIGNACIÓN | 2,435,000 | 741,868 |
+| ISBN | 4,509 | 3,172,672 |
+| TIPO DE OBRA | 3,175,944 | 924 |
+| ISBN DE LA OBRA COMPLETA | 3,174,358 | 2,508 |
+| VOLUMEN | 3,175,210 | 1,656 |
+| VOLUMENES | 3,176,095 | 771 |
+| TÍTULO | 537,442 | 2,639,701 |
+| SUBTÍTULO | 2,954,762 | 222,104 |
+| AUTOR/COLABORADOR | 1,976,601 | 1,200,285 |
+| CATEGORÍA MATERIA | 3,175,550 | 1,316 |
+| CLAVE MATERIA | 3,023,478 | 153,486 |
+| MATERIA | 3,021,530 | 155,421 |
+| THEMA | 3,071,658 | 105,208 |
+| COLECCIÓN | 3,138,041 | 38,825 |
+| NO. COLECCIÓN | 3,167,434 | 9,432 |
+| TIPO DE CONTENIDO | 3,159,499 | 17,441 |
+| NOMBRE DE LA SERIE | 3,169,599 | 7,267 |
+| PÚBLICO OBJETIVO (AUDIENCIA) | 3,174,444 | 2,424 |
+| IDIOMA | 3,168,867 | 8,018 |
+| TRADUCCIÓN | 3,176,548 | 634 |
+| IDIOMA DEL | 3,175,864 | 1,002 |
+| IDIOMA AL | 3,176,334 | 532 |
+| IDIOMA ORIGINAL | 3,169,637 | 7,229 |
+| TÍTULO ORIGINAL | 3,140,319 | 36,547 |
+| NO. EDICIÓN | 3,170,804 | 6,356 |
+| DEPARTAMENTO...7 | 3,174,467 | 2,399 |
+| CIUDAD DE EDICIÓN | 3,128,445 | 48,423 |
+| FECHA APARICIÓN | 3,127,142 | 49,724 |
+| COEDICIÓN | 3,176,344 | 523 |
+| COEDITOR | 3,171,558 | 5,308 |
+| COMERCIALIZABLE | 3,176,353 | 632 |
+| NÚMERO DE EJEMPLARES NACIONALES | 3,168,587 | 8,279 |
+| NÚMERO DE EJEMPLARES EXT. | 3,174,666 | 2,200 |
+| NÚMERO DE REIMPRESIONES | 3,176,661 | 205 |
+| PRECIO MONEDA LOCAL | 3,107,193 | 69,674 |
+| PRECIO EN DÓLARES | 3,093,260 | 83,606 |
+| SUSTRATO | 3,176,547 | 636 |
+| DESCRIPCIÓN | 3,175,223 | 1,643 |
+| ENCUADERNACIÓN | 3,174,972 | 1,894 |
+| PAPEL | 3,174,179 | 2,687 |
+| TIPO DE IMPRESIÓN | 3,176,267 | 599 |
+| PESO | 3,156,384 | 20,482 |
+| NO. PÁGINAS | 2,983,111 | 193,771 |
+| TAMAÑO | 3,105,817 | 71,049 |
+| UNIDADES | 3,098,609 | 78,257 |
+| ORIGEN PUBLICACIÓN ELECTRÓNICA...77 | 3,176,622 | 244 |
+| ORIGEN PUBLICACIÓN ELECTRÓNICA...78 | 3,175,931 | 935 |
+| FORMATO DEL PRODUCTO | 3,172,088 | 4,778 |
+| TIPO DE CONTENIDO DEL PRODUCTO | 3,175,825 | 1,041 |
+| PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL | 3,176,350 | 516 |
+| PERMISO USO DIGITAL | 3,176,502 | 364 |
+| TIPO DE RESTRICCIÓN DE USO | 3,176,330 | 536 |
+| TIPO DE SOPORTE | 3,174,082 | 2,784 |
+| TIPO DESCARGA DIGITAL | 3,176,417 | 449 |
+| DISPONIBILIDAD | 3,176,008 | 858 |
+| ESTATUS EN EL CATÁLOGO | 3,176,653 | 213 |
+| PORTADA | 3,143,631 | 33,235 |
+| RESEÑA | 3,099,916 | 76,950 |
+| CATÁLOGO | 3,176,620 | 246 |
+| TIPO | 3,176,641 | 225 |
+| EDITORIAL | 2,928,603 | 248,570 |
+| SELLO EDITORIAL | 3,087,976 | 88,909 |
+| ACTIVIDAD PRINCIPAL | 3,175,615 | 1,273 |
+| GRUPO EDITORIAL | 3,173,128 | 3,739 |
+| FECHA DE FUNDACIÓN | 3,167,650 | 9,216 |
+| TIPO_AGENTE | 3,175,675 | 1,509 |
+| PAIS | 3,176,848 | 336 |
+| ANO | 3,172,596 | 4,588 |
+| CLAVE_MAT.3 | 3,173,515 | 3,357 |
+
+---
+
 
 
