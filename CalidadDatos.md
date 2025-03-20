@@ -254,5 +254,58 @@
 | **NO. COLECCIÓN** | [1.0, 1.0, 55.0, 300.0, 10.0] |
 | **TIPO DE CONTENIDO** | ['Ensayo', 'Libros Universitarios', 'Libros Universitarios', 'Educación Básica y Media', 'Otro'] |
 
----
+| **NOMBRE DE LA SERIE** | '0', 'Experiencias investigativas II en la ULEAM extensión Pedernales', 'Apuestas Inteligentes', '2', 'JEHOVÁ ES EL REY' |
+| **PÚBLICO OBJETIVO (AUDIENCIA)** | 'General', 'General', 'General', 'General', 'General' |
+| **IDIOMA** | 'ESPANOL', 'Español', 'Español', 'ESPANOL', 'ESPANOL' |
+| **TRADUCCIÓN** | 'NO', 'SÍ' |
+| **IDIOMA DEL** | 'Español', 'Inglés' |
+| **IDIOMA AL** | 'Inglés', 'Español', 'Italiano' |
+| **IDIOMA ORIGINAL** | 'INGLES', 'INGLES', 'Alemán', 'Chino', 'INGLES' |
+| **TÍTULO ORIGINAL** | 'Sabores que palpitan en la memoria', 'Cosmovisión Legado Ancestral Edición Bilingüe', 'The Stoic Manager', 'Home from the Dark Side of Utopia: A Journey through American revolution' |
+| **NO. EDICIÓN** | 1, 1, 1, 1, 1 |
+| **DEPARTAMENTO...7** | 'Falcón', 'Carabobo', 'Carabobo', 'Distrito Capital', 'Distrito Capital' |
+| **CIUDAD DE EDICIÓN** | 'Coro', 'Valencia', 'Valencia', 'Caracas', 'Caracas' |
+| **FECHA APARICIÓN** | 1692316800, 1722297600, 1732924800, 1707868800, 1721347200 |
+| **COEDICIÓN** | 'NO', 'SÍ' |
+| **COEDITOR** | 'FEDUPEL', 'Instituto de Estudios Parlamentarios Fermín toro', 'Wiliams Alberto Hernández', 'trinchera, estrella roja, instituto simon bolivar, tinta papel y vida, vadell hermanos editores, ca.', 'Centro de Estudios Internacionales (CEDINTER)' |
+| **COMERCIALIZABLE** | 'NO', 'SÍ' |
+| **NÚMERO DE EJEMPLARES NACIONALES** | 50.0, 500.0, 20.0, 500.0, 500.0 |
+| **NÚMERO DE EJEMPLARES EXT.** | 5.0, 0.0, 0.0, 10.0, 500.0 |
+| **NÚMERO DE REIMPRESIONES** | 0.0 |
+| **PRECIO MONEDA LOCAL** | 7068.0, 1.0, 7591.0, 4567.0, 1.0 |
+| **PRECIO EN DÓLARES** | 103.0, 1.0, 403.0, 0.0, 1435.0 |
+| **SUSTRATO** | 'Impreso', 'Digital' |
+| **DESCRIPCIÓN** | 'Libro', 'Folleto', 'Libro impreso en papel', 'Fascículo' |
+| **ENCUADERNACIÓN** | 'Rústico', 'Tapa Dura', 'Rústico', 'Rústico', 'Rústico' |
+| **PAPEL** | 'Papel bond o papel obra', 'Bond', 'Bond', 'Bond', 'Bond' |
+| **TIPO DE IMPRESIÓN** | 'Tipográfica', 'Otra', 'Offset', 'Otra', 'Otra' |
+| **PESO** | 0.0, 0.0, 0.0, 0.0, 20.0 |
+| **NO. PÁGINAS** | 0.0, 82.0, 134.0, 116.0, 70.0 |
+| **TAMAÑO** | '5', '3', '15x23', '450', '4' |
+| **UNIDADES** | 'Mb', 'Kb', 'Min', 'Gb' |
+| **ORIGEN PUBLICACIÓN ELECTRÓNICA...77** | 'Título original', 'Digitalización de título existente' |
+| **ORIGEN PUBLICACIÓN ELECTRÓNICA...78** | 'Libro digital en internet', 'Libro digital en formato físico' |
+| **FORMATO DEL PRODUCTO** | 'Pdf', 'Pdf', 'Pdf', 'Pdf', 'Pdf' |
+| **TIPO DE CONTENIDO DEL PRODUCTO** | 'Texto (legible a simple vista)' |
+| **PROTECCIÓN TÉCNICA DE PUBLICACIÓN DIGITAL** | 'Ninguno', 'Marca de agua digital', 'DRM de Adobe', 'Ninguno', 'DRM' |
+| **PERMISO USO DIGITAL** | 'Permitido sin límites', 'Permitido, con limitaciones', 'No permitido' |
+| **TIPO DE RESTRICCIÓN DE USO** | 'Imprimir', 'Compartir', 'Vista previa', 'Imprimir', 'Compartir' |
+| **TIPO DE SOPORTE** | 'CD', 'Internet', 'E-Book', 'Internet', 'Internet' |
+| **TIPO DESCARGA DIGITAL** | 'Digital: descarga y online', 'Digital: descarga', 'Digital: online' |
+| **DISPONIBILIDAD** | 'Disponible', 'Disponible', 'Disponible bajo pedido especial', 'No disponible todavía', 'Disponible' |
+| **ESTATUS EN EL CATÁLOGO** | 'Próxima aparición', 'No especificado', 'Activo' |
+| **PORTADA** | '154042.jpg', '151404.jpg', '154766.jpg', '150436.jpg', '155411.jpg' |
+| **RESEÑA** | *(Texto largo omitido por espacio)* |
+| **CATÁLOGO** | 0.0, 1.0 |
+| **TIPO** | 'Editor', 'Autor - Editor' |
+| **EDITORIAL** | 'UNIVERSIDAD BOLIVARIANA DE VENEZUELA', 'Universidad Católica Andrés Bello', 'UNIVERSIDAD METROPOLITANA', 'UNIVERSIDAD NACIONAL ABIERTA', 'UNIVERSIDAD DE LOS ANDES' |
+| **SELLO EDITORIAL** | 'Universidad Nacional Experimental Sur del Lago', 'UNIVERSIDAD CATÓLICA DEL TÁCHIRA', 'ÚLTIMAS NOTICIAS', 'Universidad Experimental de la Gran Caracas', 'VADELL HERMANOS EDITORES' |
+| **ACTIVIDAD PRINCIPAL** | 'Editorial', 'Editorial universitaria' |
+| **GRUPO EDITORIAL** | 'Ediciones Actual', 'Universidad Del Zulia', 'Centro De Investigaciones Educativas (cies)' |
+| **FECHA DE FUNDACIÓN** | 31579, 957744000, 554601600, 519264000, -142214400 |
+| **TIPO_AGENTE** | 'Editorial universitaria' |
+| **PAIS** | 'Venezuela' |
+| **ANO** | 2015, 2023, 2010, 2017, 2013 |
+| **CLAVE_MAT.3** | '300.Ciencias sociales', '900.Geografía e historia', '800.Literatura y retórica' |
 
+---
