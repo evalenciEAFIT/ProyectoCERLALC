@@ -253,7 +253,6 @@
 | **COLECCIÓN** | ['independiente', 'Unión global', '1', 'Trabajos de Ascenso', 'Estudios del Trading'] |
 | **NO. COLECCIÓN** | [1.0, 1.0, 55.0, 300.0, 10.0] |
 | **TIPO DE CONTENIDO** | ['Ensayo', 'Libros Universitarios', 'Libros Universitarios', 'Educación Básica y Media', 'Otro'] |
-
 | **NOMBRE DE LA SERIE** | '0', 'Experiencias investigativas II en la ULEAM extensión Pedernales', 'Apuestas Inteligentes', '2', 'JEHOVÁ ES EL REY' |
 | **PÚBLICO OBJETIVO (AUDIENCIA)** | 'General', 'General', 'General', 'General', 'General' |
 | **IDIOMA** | 'ESPANOL', 'Español', 'Español', 'ESPANOL', 'ESPANOL' |
