@@ -61,10 +61,6 @@ La fórmula para calcular el **ICD** es:
 ICD = \frac{(T - N - D)}{T} \times 100
 \]
 
-```latex
-\[
-ICD = \frac{(T - N - D)}{T} \times 100
-\]
 
 ---
 
