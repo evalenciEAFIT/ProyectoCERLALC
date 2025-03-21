@@ -44,7 +44,7 @@ Ejemplo:
 ---
 
 ## Indicador de Calidad de Datos
-[Ver más información](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)
+[Ver más información](IndiceCalidadDatos_ICQ.md)
 
 
 ---
