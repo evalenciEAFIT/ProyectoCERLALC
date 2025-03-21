@@ -4,10 +4,6 @@
 El índice de calidad de datos (IQD) es una métrica que mide la **completitud**, **consistencia**, **validez**, **precisión** y **unicidad** de los datos almacenados en una base de datos editorial.
 
 
-
-[Hoja de parametros de calidad sobre la base de datos entregada](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)
-
-
 # Guía para el uso de parámetros de calidad de datos
 
 ## a. Abrir el archivo
