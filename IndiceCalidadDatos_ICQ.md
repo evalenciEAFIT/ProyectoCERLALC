@@ -8,9 +8,11 @@ El índice de calidad de datos (IQD) es una métrica que mide la **completitud**
 ### ✅ 1.1. Completitud
 Evalúa el porcentaje de valores no nulos en cada columna.
 
+$$ 
 \[
 \text{Completitud} = \frac{\text{Número de valores NO nulos}}{\text{Número total de registros}} \times 100
 \]
+$$ 
 
 ---
 
