@@ -34,6 +34,8 @@ Verifica que los parámetros de calidad estén correctamente configurados y guar
 **✅ Esta guía te permitirá evaluar y mejorar la calidad de los datos de manera estructurada y eficiente.**
 
 
+
+---
 ## 1. Componentes clave del índice de calidad de datos (IQD)
 
 ### 1.1. Completitud
