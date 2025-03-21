@@ -46,30 +46,6 @@ Ejemplo:
 ## Indicador de Calidad de Datos
 [Ver más información](IndiceCalidadDatos_ICQ.md)
 
-
----
-
-## **Interpretación del resultado:**
-- Si \( ICD \approx 100\% \) → La calidad de datos es alta, hay pocos valores nulos o duplicados.  
-- Si \( ICD \approx 50\% \) → La base de datos tiene una calidad moderada; se deben revisar los valores nulos y duplicados.  
-- Si \( ICD \leq 30\% \) → La calidad de los datos es baja y requiere una limpieza y verificación de la consistencia de la información.  
-
----
-
-## **Ejemplo práctico:**
-Si una base de datos tiene:
-- **T = 1000** registros  
-- **N = 100** valores nulos  
-- **D = 50** valores duplicados  
-
-Entonces el cálculo del **ICD** es:
-
-\[
-ICD = \frac{(1000 - 100 - 50)}{1000} \times 100 = \frac{850}{1000} \times 100 = 85\%
-\]
-
-➡️ La calidad de datos es del **85%**, lo que indica que la base de datos es confiable pero podría mejorarse eliminando valores nulos y registros duplicados.
-
 ---
 
 ## Fases del Proceso de Calidad de Datos
