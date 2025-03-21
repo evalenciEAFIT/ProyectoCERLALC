@@ -3,9 +3,39 @@
 
 El índice de calidad de datos (IQD) es una métrica que mide la **completitud**, **consistencia**, **validez**, **precisión** y **unicidad** de los datos almacenados en una base de datos editorial.
 
+
+
 [Hoja de parametros de calidad sobre la base de datos entregada](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)
 
 
+# Guía para el uso de parámetros de calidad de datos
+
+## a. Abrir el archivo
+Accede a la hoja de cálculo desde el siguiente enlace:  
+👉 [**Parametrización de calidad**](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)  
+
+---
+
+## b. Seleccionar columna
+Identifica la columna que deseas evaluar para asegurar que cumpla con los estándares de calidad de datos.
+
+---
+
+## c. Asignar parámetros
+Usa las listas desplegables en las columnas correspondientes para establecer los siguientes parámetros:
+
+- **Importancia** → Clasifica si la columna es obligatoria o secundaria.  
+- **Consistencia** → Evalúa si los datos están en el formato correcto y siguen las reglas establecidas.  
+- **Valoración de duplicados** → Determina si los duplicados son válidos o deben eliminarse para mantener la integridad de los datos.  
+
+---
+
+## d. Guardar cambios
+Verifica que los parámetros de calidad estén correctamente configurados y guarda los ajustes para mantener la consistencia de los datos.  
+
+---
+
+**✅ Esta guía te permitirá evaluar y mejorar la calidad de los datos de manera estructurada y eficiente.**
 
 
 ## 1. Componentes clave del índice de calidad de datos (IQD)
