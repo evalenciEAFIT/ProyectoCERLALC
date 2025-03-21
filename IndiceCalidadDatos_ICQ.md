@@ -3,6 +3,11 @@
 
 El índice de calidad de datos (IQD) es una métrica que mide la **completitud**, **consistencia**, **validez**, **precisión** y **unicidad** de los datos almacenados en una base de datos editorial.
 
+[Hoja de parametros de calidad sobre la base de datos entregada](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)
+
+
+
+
 ## 1. Componentes clave del índice de calidad de datos (IQD)
 
 ### 1.1. Completitud
@@ -62,11 +67,11 @@ $$
 ## 3. Ejemplo de cálculo del índice de calidad
 **Base de datos:** 1,000 registros
 
-- Completitud → 950 valores completos → $$\( \frac{950}{1000} \times 100 = 95\% \) $$  
+- Completitud → 950 valores completos → $$ \frac{950}{1000} \times 100 = 95\% \) $$  
 - Consistencia → 900 valores con formato correcto → $$\( \frac{900}{1000} \times 100 = 90\% \) $$  
-- Validez → 800 valores válidos → $$\( \frac{800}{1000} \times 100 = 80\% \) $$  
-- Precisión → 850 valores precisos → $$\( \frac{850}{1000} \times 100 = 85\% \) $$    
-- Unicidad → 990 valores únicos → $$\( \frac{990}{1000} \times 100 = 99\% \) $$    
+- Validez → 800 valores válidos → $$ \frac{800}{1000} \times 100 = 80\% \) $$  
+- Precisión → 850 valores precisos → $$ \frac{850}{1000} \times 100 = 85\% \) $$    
+- Unicidad → 990 valores únicos → $$ \frac{990}{1000} \times 100 = 99\% \) $$    
 
 **IQD Total:**  
 $$ 
@@ -93,7 +98,7 @@ $$
 
 ### **Consistencia**
 - Estandarizar formatos en columnas específicas (como ISBN).  
-- Usar restricciones o triggers en la base de datos para asegurar consistencia.  
+- Usar restricciones.  
 
 ### **Validez**
 - Definir reglas de validación para datos numéricos, fechas y textos.  
