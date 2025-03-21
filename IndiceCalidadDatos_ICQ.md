@@ -62,7 +62,7 @@ $$
 ## 3. Ejemplo de cálculo del índice de calidad
 **Base de datos:** 1,000 registros
 
-- Completitud → 950 valores completos → \( \frac{950}{1000} \times 100 = 95\% \)  
+- Completitud → 950 valores completos → $$\( \frac{950}{1000} \times 100 = 95\% \)$$  
 - Consistencia → 900 valores con formato correcto → \( \frac{900}{1000} \times 100 = 90\% \)  
 - Validez → 800 valores válidos → \( \frac{800}{1000} \times 100 = 80\% \)  
 - Precisión → 850 valores precisos → \( \frac{850}{1000} \times 100 = 85\% \)  
