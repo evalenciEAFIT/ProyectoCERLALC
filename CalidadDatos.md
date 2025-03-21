@@ -18,7 +18,7 @@
 [Ver información](Descripcion.md)
 
 ---
-## VER DATOS DE MEDICIÓN
+# VER DATOS DE MEDICIÓN
 ---
 
 ## Valores nulos por columna
