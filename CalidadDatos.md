@@ -44,31 +44,8 @@ Ejemplo:
 ---
 
 ## Indicador de Calidad de Datos
+[Ver más información](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)
 
-# **Indicador de Calidad de Datos (ICD)**
-El **Indicador de Calidad de Datos** mide el nivel de calidad general de una base de datos en función de la cantidad de datos completos, consistentes y sin duplicados. Un valor cercano al **100%** indica que la base de datos es altamente confiable y presenta poca pérdida o inconsistencia de datos.
-
-## **Consideraciones para el cálculo**
-- Los valores vacíos serán tratados como valores nulos, ya que ambos representan una ausencia de datos.  
-- Los registros duplicados disminuyen la calidad de los datos, ya que reflejan inconsistencias en la estructura y redundancia de la información.
-
----
-
-## **Fórmula para el Indicador de Calidad de Datos (ICD)**
-La fórmula para calcular el **ICD** es:
-
-\[
-ICD = \frac{(T - N - D)}{T} \times 100
-\]
-
-
----
-
-## **Donde:**
-- \( ICD \) = Indicador de Calidad de Datos (%).  
-- \( T \) = Total de registros en la base de datos.  
-- \( N \) = Número de valores nulos (incluye valores vacíos).  
-- \( D \) = Número de valores duplicados.  
 
 ---
 
