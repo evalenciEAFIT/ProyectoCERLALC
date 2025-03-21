@@ -5,7 +5,7 @@ El índice de calidad de datos (IQD) es una métrica que mide la **completitud**
 
 ## 1. Componentes clave del índice de calidad de datos (IQD)
 
-### ✅ 1.1. Completitud
+### 1.1. Completitud
 Evalúa el porcentaje de valores no nulos en cada columna.
 
 $$ 
@@ -14,48 +14,48 @@ $$
 
 ---
 
-### ✅ 1.2. Consistencia
+### 1.2. Consistencia
 Evalúa si los valores de una columna son consistentes con un formato o estándar definido.
 
-\[
+$$ 
 \text{Consistencia} = \frac{\text{Número de valores consistentes}}{\text{Número total de registros}} \times 100
-\]
+$$
 
 ---
 
-### ✅ 1.3. Validez
+### 1.3. Validez
 Evalúa si los valores en una columna cumplen con las reglas de negocio o estándares específicos.
 
-\[
+$$ 
 \text{Validez} = \frac{\text{Número de valores válidos}}{\text{Número total de registros}} \times 100
-\]
+$$
 
 ---
 
-### ✅ 1.4. Precisión
+### 1.4. Precisión
 Evalúa la exactitud de los valores.
 
-\[
+$$ 
 \text{Precisión} = \frac{\text{Número de valores precisos}}{\text{Número total de registros}} \times 100
-\]
+$$
 
 ---
 
-### ✅ 1.5. Unicidad
+### 1.5. Unicidad
 Evalúa si la columna ISBN tiene valores únicos y no repetidos.
 
-\[
+$$ 
 \text{Unicidad} = \frac{\text{Número de valores únicos en ISBN}}{\text{Número total de registros}} \times 100
-\]
+$$ 
 
 ---
 
 ## 2. Fórmula para el índice de calidad de datos (IQD)
 Una vez calculadas las cinco dimensiones anteriores, el índice de calidad de datos puede expresarse como el promedio ponderado de estas dimensiones:
 
-\[
+$$
 \text{IQD} = \frac{\text{Completitud} + \text{Consistencia} + \text{Validez} + \text{Precisión} + \text{Unicidad}}{5}
-\]
+$$ 
 
 ---
 
