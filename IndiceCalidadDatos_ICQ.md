@@ -8,7 +8,7 @@ El índice de calidad de datos (IQD) es una métrica que mide la **completitud**
 
 ## a. Abrir el archivo
 Accede a la hoja de cálculo desde el siguiente enlace:  
-👉 [**Parametrización de calidad**](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)  
+ [**Parametrización de calidad**](https://docs.google.com/spreadsheets/d/1pPO_obkfmVQWzPJz8hAdkly9GrDG-SgA_NEvTtR2jlY/edit?usp=sharing)  
 
 ---
 
@@ -31,7 +31,7 @@ Verifica que los parámetros de calidad estén correctamente configurados y guar
 
 ---
 
-**✅ Esta guía te permitirá evaluar y mejorar la calidad de los datos de manera estructurada y eficiente.**
+**Esta guía te permitirá evaluar y mejorar la calidad de los datos de manera estructurada y eficiente.**
 
 
 
@@ -119,7 +119,7 @@ $$
 
 ---
 
-## ✅ 5. Estrategia de mejora de calidad de datos
+## 5. Estrategia de mejora de calidad de datos
 ### **Completitud**
 - Implementar restricciones en las columnas clave para evitar valores nulos.  
 - Establecer un proceso automatizado para rellenar datos faltantes mediante imputación de datos.  
@@ -142,5 +142,5 @@ $$
 
 ---
 
-## 🎯 **Conclusión**
+## **Conclusión**
 El índice de calidad de datos (IQD) proporciona una visión clara de la calidad de los datos almacenados en la base de datos. Al medir y mejorar continuamente cada dimensión, se puede garantizar que la base de datos tenga datos de alta calidad, fiables y consistentes para apoyar decisiones comerciales y análisis estratégicos.
